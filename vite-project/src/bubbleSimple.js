@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import "zingchart/es6";
 import ZingChart from "zingchart-react";
-import "zingchart/modules-es6/zingchart-bubble-pack.min"; //modulo especifico para bubble pack chart
-
+import "zingchart/modules-es6/zingchart-bubble-pack.min";
 class Simple extends Component {
   fsdata = [
     {
